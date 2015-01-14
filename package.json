@@ -1,0 +1,19 @@
+{
+    "author": "Caleb Light",
+    "name": "readwordscal",
+    "version": "0.1.2",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/clight92/readwords.git"
+    },
+    "keywords": [ 
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
